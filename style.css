@@ -1,0 +1,24 @@
+section {
+	padding-top: 50px;
+	padding-bottom: 50px;
+
+}
+body{
+	background-color: #000000;
+	background-image: linear-gradient(rgba(0, 0, 0, .8), rgba(0, 0, 0, 8)),url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-x4fugdpdJldcfv9aQ2K3zZ5vaFKdlZH_FTPTIfRfr0txRW12CsMk2-pTGC7_PXJbLqs&usqp=CAU);
+}
+
+h1{
+	color: whitesmoke;
+	font-family:  Lucida Console, Courier, monospace;
+}
+h2{
+	color: whitesmoke;
+	font-family:  Lucida Console, Courier, monospace;
+}
+.carousel-control-prev{
+	left: -9%;
+}
+.carousel-control-next{
+	right: -8.5%;
+}
